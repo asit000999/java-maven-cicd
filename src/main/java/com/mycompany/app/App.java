@@ -7,6 +7,7 @@ public class App
 {
 
     private final String message = "Hello World!";
+   // private final String message1 = "Hello World!";
 
     public App() {}
 
